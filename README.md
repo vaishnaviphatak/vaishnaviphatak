@@ -54,7 +54,7 @@
 </td>
 
 <td width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/vaishnaviphatak/vaishnaviphatak/main/coder-illustration.png" width="420"/>
+  <img src="https://raw.githubusercontent.com/vaishnaviphatak/vaishnaviphatak/main/coder_illustration_download.png" width="420"/>
 
 </td>
 
