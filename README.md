@@ -8,23 +8,23 @@
 
 Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/23d0992e-3fdd-4ebe-985e-dc69e6d5bdfe" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/your-codechef">
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/your-codechef" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/your-gfg/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" width="32"/>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/your-codeforces" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/your-leetcode/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="32"/>
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Languages and Tools:
