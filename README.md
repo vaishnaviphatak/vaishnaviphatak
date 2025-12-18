@@ -9,16 +9,19 @@
 Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32"/>
   </a>
-  <a href="https://github.com/vaishnaviphatak">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30"/>
-  </a>
-  <a href="https://leetcode.com/your-leetcode/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30"/>
-  </a>
+  &nbsp;&nbsp;
   <a href="https://www.codechef.com/users/your-codechef">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/your-gfg/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" width="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/your-leetcode/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="32"/>
   </a>
 </p>
 
