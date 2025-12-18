@@ -9,7 +9,7 @@
 Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32"/>
+    <img src="<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/23d0992e-3fdd-4ebe-985e-dc69e6d5bdfe" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.codechef.com/users/your-codechef">
