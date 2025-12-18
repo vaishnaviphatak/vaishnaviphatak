@@ -54,8 +54,10 @@
 </td>
 
 <td width="45%" align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-working-on-computer-6817511-5601991.png" width="420"/>
+  <img src="coder-illustration.png" alt="coder illustration" width="420"/>
 </td>
+
+
 </tr>
 </table>
 
