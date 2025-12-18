@@ -13,7 +13,7 @@
 
 - 🎓 **BTech in Computer Science and Engineering**  
 - 💡 **Competitive Programming Enthusiast**  
-- 🌍 **Currently diving into MERN stack and building exciting projects**  
+- 🌍 **Currently diving into Data Science and building exciting projects**  
 - 📫 **How to reach me:**  
   <a href="mailto:vaishnaviphatak8@gmail.com">vaishnaviphatak8@gmail.com</a>
 
